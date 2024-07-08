@@ -17,6 +17,7 @@
 
 ## Övningar:
 * [Array Bootcamp]()
+* [DOM-manipulation](https://github.com/Lexicon-Frontend-2024/exercise-js-dom-manipulation)
 * [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main)
 
 ## Slides:
