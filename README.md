@@ -1,4 +1,4 @@
-# Schema, vecka 27
+# Schema, vecka 28
 
 ###### JavaScript, vecka 2 av 6
 
