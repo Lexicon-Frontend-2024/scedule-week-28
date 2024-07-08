@@ -16,8 +16,8 @@
 [JavaScript Tutorial Guide](https://www.w3schools.com/js/)
 
 ## Övningar:
-* [Array Bootcamp]()
-* [DOM Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-js-objects-bootcamp/tree/main)
+* [Array Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-array-bootcamp)
+* [Objects Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-js-objects-bootcamp/tree/main)
 * [DOM-manipulation](https://github.com/Lexicon-Frontend-2024/exercise-js-dom-manipulation)
 * [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main)
 
