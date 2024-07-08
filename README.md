@@ -16,8 +16,10 @@
 [JavaScript Tutorial Guide](https://www.w3schools.com/js/)
 
 ## Övningar:
+* [Array Bootcamp]()
+* [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main)
 
 ## Slides:
-[Datalogiskt tänkande](https://docs.google.com/presentation/d/13CtjmEz_yLvmpvim6IAzquIqzJ87Wpfu4pNUo0jFcSc)
-[Grundläggande JavaScript](https://docs.google.com/presentation/d/1om0xpdCwdhISmljJbGc0RxFfeGwxEGqj/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Datalogiskt tänkande](https://docs.google.com/presentation/d/13CtjmEz_yLvmpvim6IAzquIqzJ87Wpfu4pNUo0jFcSc)
+* [Grundläggande JavaScript](https://docs.google.com/presentation/d/1om0xpdCwdhISmljJbGc0RxFfeGwxEGqj/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 
