@@ -13,7 +13,10 @@
 #### Utvalda för denna veckan:
 [JavaScript Fundamentals](https://app.pluralsight.com/library/courses/fundamentals-javascript/table-of-contents)
 #### Läsning:
-[JavaScript Tutorial Guide](https://www.w3schools.com/js/)
+* [JavaScript Tutorial Guide](https://www.w3schools.com/js/)
+* [Arrays](https://www.w3schools.com/js/js_arrays.asp)
+* [Objects](https://www.w3schools.com/js/js_objects.asp)
+* [DOM-manipulation](https://www.w3schools.com/js/js_htmldom_methods.asp)
 
 ## Övningar:
 * [Array Bootcamp](https://github.com/Lexicon-Frontend-2024/exercise-array-bootcamp)
