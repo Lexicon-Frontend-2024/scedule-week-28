@@ -16,7 +16,8 @@
 * [JavaScript Tutorial Guide](https://www.w3schools.com/js/)
 * [Arrays](https://www.w3schools.com/js/js_arrays.asp)
 * [Array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-* [Objects](https://www.w3schools.com/js/js_objects.asp)
+* [Objects, w3](https://www.w3schools.com/js/js_objects.asp)
+* [Objects, mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 * [DOM-manipulation](https://www.w3schools.com/js/js_htmldom_methods.asp)
 
 ## Övningar:
