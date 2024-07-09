@@ -26,6 +26,5 @@
 * [Receptet](https://github.com/Lexicon-Frontend-2024/exercise-js-recipe-manipulation/tree/main)
 
 ## Slides:
-* [Datalogiskt tänkande](https://docs.google.com/presentation/d/13CtjmEz_yLvmpvim6IAzquIqzJ87Wpfu4pNUo0jFcSc)
-* [Grundläggande JavaScript](https://docs.google.com/presentation/d/1om0xpdCwdhISmljJbGc0RxFfeGwxEGqj/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Objekt](https://docs.google.com/presentation/d/1q_XG3pYQTUB43uBOA42eJwTeH5Vk3pcGcCxUoUyjGeI/edit?usp=sharing)
 
