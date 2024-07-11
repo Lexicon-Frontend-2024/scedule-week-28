@@ -31,3 +31,5 @@
 * [Objekt](https://docs.google.com/presentation/d/1q_XG3pYQTUB43uBOA42eJwTeH5Vk3pcGcCxUoUyjGeI/edit?usp=sharing)
 * [DOM-manipulation](https://docs.google.com/presentation/d/1mvd5SYjcwPvJzqS94_Wkc6Ys5Sm0mG24h6C3ymKMesI/edit#slide=id.g631b732e06_0_23)
 
+## Lektionsrepon:
+* [11 juli](https://github.com/Lexicon-Frontend-2024/lecture-11-july)
